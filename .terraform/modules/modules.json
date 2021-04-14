@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cloud_run","Source":"garbetjie/cloud-run/google","Version":"1.4.0","Dir":".terraform/modules/cloud_run"}]}
